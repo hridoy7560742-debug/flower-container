@@ -3,7 +3,7 @@ header {
 }
 .sub-button {
   background-color: #e55473;
-  padding: 16px 40px;
+  padding: 10px 30px;
   color: white;
   border-radius: 8px;
 }
@@ -130,4 +130,42 @@ main {
 .Instagram-sub-image img {
   height: 100%;
   width: 100%;
+}
+
+/* mota */
+.mota {
+  margin-top: 125px;
+  background-image: url(../Flower-Asset/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  text-align: center;
+  align-items: center;
+  padding: 100px;
+}
+.mota-container h3 {
+  font-size: 40px;
+  font-weight: 700px;
+}
+.mota-email {
+  padding: 10px;
+}
+/*  footer */
+footer {
+  background-color: black;
+  color: white;
+}
+.footer-continer {
+  text-align: center;
+  padding: 100px;
+}
+.footer-continer h3 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+.footer-continer span {
+  color: #e55473;
+}
+.footer-continer small {
+  color: rgba(255, 255, 255, 0.34);
+  font-size: 14px;
 }
